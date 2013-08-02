@@ -1,4 +1,4 @@
 style-guide
 ===========
 
-G0V style guilde
+G0V style guide
