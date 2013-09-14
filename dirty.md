@@ -1,6 +1,6 @@
 # Coding Style
 # File Organization
-# Naming Covention
+# Naming Convention
 # Shadow/陰影
 先回憶一下 box-shadow 怎麼設吧 http://www.w3schools.com/cssref/css3_pr_box-shadow.asp
 >	box-shadow: x y blur spred color inset
