@@ -1,0 +1,10 @@
+
+@font-face{font-family:myfont;src:url('font.ttf')}
+i.icon{font-style:normal;font-family:myfont;vertical-align:baseline}
+i.icon:after{display:inline}
+  i.icon.liyuan:after { content: "\f001" }
+i.icon.constitution:after { content: "\f002" }
+i.icon.discipline:after { content: "\f003" }
+i.icon.finance:after { content: "\f004" }
+i.icon.economics:after { content: "\f005" }
+i.icon.procedure:after { content: "\f006" }
