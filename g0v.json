@@ -1,0 +1,43 @@
+{
+
+  "status": "beta",
+
+  "name": "g0vstyle-guide",
+
+  "name_zh": "Logo & styles.",
+
+  "description": "Logo & styles.",
+
+  "description_zh": "Logo & styles.",
+
+  "document": "",
+
+  "homepage": "",
+
+  "repository": {
+
+    "type": "git",
+
+    "url": "https://github.com/g0v/style-guide"
+
+  },
+
+  "licenses": [
+
+    {
+
+      "type": "CC-BY"
+
+    }
+
+  ],
+
+  "keywords": [  ],
+
+  "audience": [
+
+    "public"
+
+  ]
+
+}
